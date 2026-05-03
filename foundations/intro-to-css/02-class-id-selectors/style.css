@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+.odd-numbered {
+    background-color: #FF87C1;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+#second-number {
+    font-size: 36px;
+    color: #87A9FF; 
+}
+.odd-numbered.third {
+    font-size: 36px;
+}
+#forth-number {
+    background-color: #87FFC7;
+    font-size: 24px;
+    font-weight: bold;
+}
